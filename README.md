@@ -24,7 +24,7 @@ Nas horas vagas, desenvolvo sistemas sob medida para pessoas e negócios reais: 
 
 > *Gosto dos bastidores, construindo estruturas que garantem que os artistas brilhem — e, no palco da minha vida, eu sou o ator principal.*
 
-🎓 Pós-graduações em **BI & Analytics**, **Desenvolvimento Ágil** e **Segurança da Informação**
+🎓 Pós-graduações em **BI & Analytics**, **Desenvolvimento Ágil** e **Segurança da Informação** (em andamento)
 🤖 Uso **IA como parte central** do meu fluxo de desenvolvimento
 
 ---
