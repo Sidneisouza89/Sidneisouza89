@@ -102,7 +102,7 @@ Paróquias e frentes pastorais (vicentinos, franciscanos e outras) nas 7 cidades
 <tr>
 <td colspan="2" valign="top">
 
-### 🥅 Varzeando Escolinhas *(em breve)*
+### 🥅 Craques da Base *(em breve)*
 Versão do Varzeando pensada para **escolinhas de futebol**: turmas, festivais e campeonatos internos das categorias de base, com a mesma engine de competições da plataforma principal.
 
 </td>
