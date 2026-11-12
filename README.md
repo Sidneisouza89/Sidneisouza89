@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://sidneisouza89.github.io"><img src="https://img.shields.io/badge/Currículo-online-0891b2?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
+<a href="https://sidneisouza89.github.io"><img src="https://img.shields.io/badge/Curr%C3%ADculo-online-0891b2?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/souzasidnei"><img src="https://img.shields.io/badge/LinkedIn-souzasidnei-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Diadema%20%2F%20SP-Brasil-0891b2?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 <img src="https://img.shields.io/badge/Freelance-aberto%20a%20projetos-0b3954?style=for-the-badge"/>
