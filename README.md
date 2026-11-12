@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3d2e,100:1f7a4d&height=190&section=header&text=Sidnei%20Souza&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Dados%20%E2%80%A2%20BI%20%E2%80%A2%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3954,100:0891b2&height=190&section=header&text=Sidnei%20Souza&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Dados%20%E2%80%A2%20BI%20%E2%80%A2%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=17" width="100%"/>
 
 <a href="https://www.linkedin.com/in/souzasidnei">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=1F7A4D&center=true&vCenter=true&width=620&lines=Transformo+problemas+reais+em+sistemas+que+funcionam;Dados%2C+BI+e+automa%C3%A7%C3%A3o+de+ponta+a+ponta;Da+v%C3%A1rzea+aos+Alpes+italianos+%E2%9A%BD%F0%9F%8F%94%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=0891B2&center=true&vCenter=true&width=620&lines=Transformo+problemas+reais+em+sistemas+que+funcionam;Dados%2C+BI+e+automa%C3%A7%C3%A3o+de+ponta+a+ponta;Da+v%C3%A1rzea+aos+Alpes+italianos+%E2%9A%BD%F0%9F%8F%94%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/souzasidnei"><img src="https://img.shields.io/badge/LinkedIn-souzasidnei-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Diadema%20%2F%20SP-Brasil-1f7a4d?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/Freelance-aberto%20a%20projetos-0f3d2e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Diadema%20%2F%20SP-Brasil-0891b2?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Freelance-aberto%20a%20projetos-0b3954?style=for-the-badge"/>
 
 </div>
 
@@ -148,5 +148,5 @@ Tem um projeto, um processo manual que poderia virar sistema, ou dados que preci
 Me chama no **[LinkedIn](https://www.linkedin.com/in/souzasidnei)**.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f7a4d,100:0f3d2e&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0b3954&height=110&section=footer" width="100%"/>
 </div>
