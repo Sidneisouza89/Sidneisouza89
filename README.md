@@ -8,6 +8,7 @@
 
 <br/>
 
+<a href="https://sidneisouza89.github.io"><img src="https://img.shields.io/badge/Currículo-online-0891b2?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/souzasidnei"><img src="https://img.shields.io/badge/LinkedIn-souzasidnei-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Diadema%20%2F%20SP-Brasil-0891b2?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 <img src="https://img.shields.io/badge/Freelance-aberto%20a%20projetos-0b3954?style=for-the-badge"/>
@@ -145,7 +146,7 @@ Versão do Varzeando pensada para **escolinhas de futebol**: turmas, festivais e
 ## 📬 Vamos conversar?
 
 Tem um projeto, um processo manual que poderia virar sistema, ou dados que precisam virar decisão?
-Me chama no **[LinkedIn](https://www.linkedin.com/in/souzasidnei)**.
+Me chama no **[LinkedIn](https://www.linkedin.com/in/souzasidnei)** ou veja meu **[currículo completo](https://sidneisouza89.github.io)**.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0b3954&height=110&section=footer" width="100%"/>
